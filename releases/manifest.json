@@ -1,0 +1,15 @@
+{
+  "launcher_version": "1.0.0",
+  "changelog": "İlk sürüm",
+  "mods": [
+    {"id": "LC1", "file": "LC1-1.20.1.jar", "version": "1.0.0"},
+    {"id": "LC2", "file": "LC2-1.20.1-indicator.jar", "version": "1.0.0"},
+    {"id": "LC3", "file": "LC3-1.20.1-duzenlendi2.jar", "version": "1.0.0"},
+    {"id": "LC4", "file": "LC4-1.20.1.jar", "version": "1.0.0"},
+    {"id": "LC5", "file": "LC5-1.20.1.jar", "version": "1.0.0"},
+    {"id": "LC6", "file": "LC6-1.20.1.jar", "version": "1.0.0"},
+    {"id": "LC7", "file": "LC7-1.20.1-Irtactical.jar", "version": "1.0.0"},
+    {"id": "LC8", "file": "LC8-1.20.1.jar", "version": "1.0.0"},
+    {"id": "LC9", "file": "LC9-1.20.1-Config.jar", "version": "1.0.0"}
+  ]
+}
