@@ -10,6 +10,6 @@
     {"id": "LC5", "file": "LC5-1.20.1.jar", "version": "1.0.0"},
     {"id": "LC6", "file": "LC6-1.20.1.jar", "version": "1.0.0"},
     {"id": "LC7", "file": "LC7-1.20.1-Irtactical.jar", "version": "1.0.0"},
-    {"id": "LC-Launcher", "file": "LC-Launcher-1.0.0.jar", "version": "1.0.1"}
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.1"}
   ]
 }
