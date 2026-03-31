@@ -1,5 +1,6 @@
 {
   "launcher_version": "1.0.0",
+  "launcher_url": "https://github.com/BloodKing00/LegendCraft-Forge-1.20.1/releases/download/1.0.0/LegendCraft.exe",
   "changelog": "İlk sürüm",
   "mods": [
     {"id": "LC1", "file": "LC1-1.20.1.jar", "version": "1.0.0"},
