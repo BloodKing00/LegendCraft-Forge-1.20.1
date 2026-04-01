@@ -1,7 +1,7 @@
 {
   "launcher_version": "1.0.2",
   "launcher_url": "https://github.com/BloodKing00/LegendCraft-Forge-1.20.1/releases/download/1.0.0/LegendCraft.exe",
-  "changelog": "Embeddium, Oculus, Rubidium modlari eklendi",
+  "changelog": "Embeddium, Oculus, Rubidium Modları Eklendi",
   "mods": [
     {"id": "LC1",  "file": "LC1-1.20.1.jar",             "version": "1.0.0", "sha1": "90c553e11b4d42be4380ce4b63f969a98f7dedfc", "sha256": "4eee8e44496f0fda55af369c834bbb2b700440793113e54b628a2a91eaafd8f5"},
     {"id": "LC2",  "file": "LC2-1.20.1-indicator.jar",   "version": "1.0.0", "sha1": "8b4826c3d120ab82e7c68fe3b7b937f15265656f", "sha256": "0cc0af4339e3f68b570638ab139d6976d5a2aaa7abf6deb0a26ef310d12a6130"},
