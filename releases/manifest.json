@@ -1,7 +1,7 @@
 {
-  "launcher_version": "1.0.2",
+  "launcher_version": "1.0.3",
   "launcher_url": "https://github.com/BloodKing00/LegendCraft-Forge-1.20.1/releases/download/1.0.0/LegendCraft.exe",
-  "changelog": "Embeddium, Oculus, Rubidium Modları Eklendi",
+  "changelog": "Embeddium, Oculus, Rubidium Modlari Eklendi",
   "mods": [
     {"id": "LC1",  "file": "LC1-1.20.1.jar",             "version": "1.0.0", "sha1": "90c553e11b4d42be4380ce4b63f969a98f7dedfc", "sha256": "4eee8e44496f0fda55af369c834bbb2b700440793113e54b628a2a91eaafd8f5"},
     {"id": "LC2",  "file": "LC2-1.20.1-indicator.jar",   "version": "1.0.0", "sha1": "8b4826c3d120ab82e7c68fe3b7b937f15265656f", "sha256": "0cc0af4339e3f68b570638ab139d6976d5a2aaa7abf6deb0a26ef310d12a6130"},
@@ -10,9 +10,9 @@
     {"id": "LC5",  "file": "LC5-1.20.1.jar",             "version": "1.0.0", "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a", "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"},
     {"id": "LC6",  "file": "LC6-1.20.1.jar",             "version": "1.0.0", "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4", "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"},
     {"id": "LC7",  "file": "LC7-1.20.1-Irtactical.jar",  "version": "1.0.0", "sha1": "c58d3a62eb913b481da6e3cb82c5486c032c26eb", "sha256": "60ab14a0e972aaa2dbad179f09fa3cae4c7820ca130c0c72f46329f66c369227"},
-    {"id": "LC8",  "file": "embeddium.jar",               "version": "1.0.0", "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f", "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"},
+    {"id": "LC8",  "file": "LC8-1.20.1.jar",             "version": "1.0.0", "sha1": "1aa80080c636b7d0e3f1dd4093cb585cb1162cde", "sha256": "f135fbde3fc76785d020d6c786e2316e35db98c76343f507718eb364965c81a6"},
     {"id": "LC9",  "file": "oculus.jar",                  "version": "1.0.0", "sha1": "984f774e71790deaec674c7587bd24e0711871b2", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"},
     {"id": "LC10", "file": "rubidium.jar",                "version": "1.0.0", "sha1": "bb422d5626bf698441e444a3e545c8e71b6928cf", "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"},
-    {"id": "LC-Launcher", "file": "LC-Launcher.jar",      "version": "1.0.1", "sha1": "7bfcb9ca3f71ecc20f2320b9b7034dbe0fbfa908", "sha256": "1e6b5cb481dd8e2c9b9b698ea5a141983c67b38305b00ed18d8a4b3a05c47145"}
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar",      "version": "1.0.2", "sha1": "1679aa2a1b1ee86d0d2eeec9bb8804bc6d40efaa", "sha256": "9fabf01576bdaefdc9220101386793e3ab95f50f32e3c2ffa67366c9220c30a5"}
   ]
 }
