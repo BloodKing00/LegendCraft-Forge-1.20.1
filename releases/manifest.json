@@ -14,6 +14,6 @@
     {"id": "LC9",  "file": "LC9-embeddium.jar",      "version": "1.0.0", "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f", "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"},
     {"id": "LC10", "file": "LC10-oculus.jar",         "version": "1.0.0", "sha1": "984f774e71790deaec674c7587bd24e0711871b2", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"},
     {"id": "LC11", "file": "LC11-rubidium.jar",       "version": "1.0.0", "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8", "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"},
-    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.6", "sha1": "dfda83798e0ffcb0cd0ba2396719284bdf0d7277", "sha256": "2aef6785216fed8c33a24437a7f757c4689393c5f31b179278dea3f5d27d4f02"}
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.5", "sha1": "dfda83798e0ffcb0cd0ba2396719284bdf0d7277", "sha256": "2aef6785216fed8c33a24437a7f757c4689393c5f31b179278dea3f5d27d4f02"}
   ]
 }
