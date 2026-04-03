@@ -1,19 +1,16 @@
 {
   "launcher_version": "1.0.5",
   "launcher_url": "https://github.com/BloodKing00/LegendCraft-Forge-1.20.1/releases/download/1.0.0/LegendCraft.exe",
-  "changelog": "Embeddium, Oculus, Rubidium Modlari Eklendi",
+  "changelog": "Modlar guncellendi",
   "mods": [
-    {"id": "LC1",  "file": "LC1-1.20.1.jar",             "version": "1.0.0", "sha1": "90c553e11b4d42be4380ce4b63f969a98f7dedfc", "sha256": "4eee8e44496f0fda55af369c834bbb2b700440793113e54b628a2a91eaafd8f5"},
-    {"id": "LC2",  "file": "LC2-1.20.1-indicator.jar",   "version": "1.0.0", "sha1": "8b4826c3d120ab82e7c68fe3b7b937f15265656f", "sha256": "0cc0af4339e3f68b570638ab139d6976d5a2aaa7abf6deb0a26ef310d12a6130"},
-    {"id": "LC3",  "file": "LC3-1.20.1-duzenlendi2.jar", "version": "1.0.0", "sha1": "a3901ff98a11631dc276a6c58ec296f90da80421", "sha256": "6d90e97ebeb0ed93d1f23f68311f0f5d2cce00d16583e6a7c7f1dea9eb63cab1"},
-    {"id": "LC4",  "file": "LC4-1.20.1.jar",             "version": "1.0.0", "sha1": "152e8f188646b76b8ab271cc87d122dfb4abe549", "sha256": "4da3500101daee87289ee64a0b5f3e90088851cc57e421ffa9c4f515d5382b38"},
-    {"id": "LC5",  "file": "LC5-1.20.1.jar",             "version": "1.0.0", "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a", "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"},
-    {"id": "LC6",  "file": "LC6-1.20.1.jar",             "version": "1.0.0", "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4", "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"},
-    {"id": "LC7",  "file": "LC7-1.20.1-Irtactical.jar",  "version": "1.0.0", "sha1": "c58d3a62eb913b481da6e3cb82c5486c032c26eb", "sha256": "60ab14a0e972aaa2dbad179f09fa3cae4c7820ca130c0c72f46329f66c369227"},
-    {"id": "LC8",  "file": "LC8-1.20.1.jar",             "version": "1.0.0", "sha1": "1aa80080c636b7d0e3f1dd4093cb585cb1162cde", "sha256": "f135fbde3fc76785d020d6c786e2316e35db98c76343f507718eb364965c81a6"},
-    {"id": "LC11", "file": "embeddium.jar",               "version": "1.0.0", "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f", "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"},
-    {"id": "LC9",  "file": "oculus.jar",                  "version": "1.0.0", "sha1": "984f774e71790deaec674c7587bd24e0711871b2", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"},
-    {"id": "LC10", "file": "rubidium.jar",                "version": "1.0.0", "sha1": "bb422d5626bf698441e444a3e545c8e71b6928cf", "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"},
-    {"id": "LC-Launcher", "file": "LC-Launcher.jar",      "version": "1.0.4", "sha1": "e7abc0cd4350ad2fd310f3e9926ce12c838b175c", "sha256": "f49d3c15d5130b06906de337b0bfdada6d5315482ac36e2a22a90d6972fd1466"}
+    {"id": "LC1",  "file": "LC1-Gecko.jar",        "version": "1.0.0", "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd", "sha256": "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"},
+    {"id": "LC2",  "file": "LC2-Healt.jar",         "version": "1.0.0", "sha1": "8b4826c3d120ab82e7c68fe3b7b937f15265656f", "sha256": "0cc0af4339e3f68b570638ab139d6976d5a2aaa7abf6deb0a26ef310d12a6130"},
+    {"id": "LC3",  "file": "LC3-Tacz.jar",          "version": "1.0.0", "sha1": "fd0024a6b2a588e2fc2a1ab97793e2aebbde1740", "sha256": "89f7332d4cd69539e490eb0f62915c88b42f1ebd9c95368ac616574abce211d6"},
+    {"id": "LC4",  "file": "LC4-Irtactical.jar",    "version": "1.0.0", "sha1": "c58d3a62eb913b481da6e3cb82c5486c032c26eb", "sha256": "60ab14a0e972aaa2dbad179f09fa3cae4c7820ca130c0c72f46329f66c369227"},
+    {"id": "LC5",  "file": "LC5-Mobs.jar",          "version": "1.0.0", "sha1": "4e2e81e3eb9b5df57af89515d5268066bbc5423d", "sha256": "68d8084288d52430a63ae7130c244461b75772198b5799f6dea1c5a6560e6b27"},
+    {"id": "LC6",  "file": "LC6-Boss.jar",          "version": "1.0.0", "sha1": "59156b210818ddaf01060d977797efbb41f0a7d1", "sha256": "2cd63fce6a377452314d530aa76c4f0be7ee5db40d058f2647840ab5a0975753"},
+    {"id": "LC7",  "file": "LC7-NexusL.jar",        "version": "1.0.0", "sha1": "a930acf0126b3514a3d56c4fc2d54c5d7c344341", "sha256": "e0dd963bd628559213caab5018c177d3c11637606f98fd0bf46e6bca8bb10334"},
+    {"id": "LC8",  "file": "LC8-FathomlessC.jar",   "version": "1.0.0", "sha1": "e2b5d8dbe029029757cddcabdfecdc0988f2b238", "sha256": "a5a33d52a2a933e7248919c7a583eddaa687a1515bbc80be514763de93cdb075"},
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.5", "sha1": "1070e55edfabe42fce226a194cfb333e6f2cac8a", "sha256": "0963741a91e8b9809494c71a1a0789e006f69c6d15a8cac0789b520ebff5b01f"}
   ]
 }
