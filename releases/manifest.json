@@ -1,11 +1,11 @@
 {
-  "launcher_version": "1.0.6",
+  "launcher_version": "1.0.7",
   "launcher_url": "https://github.com/BloodKing00/LegendCraft-Forge-1.20.1/releases/download/1.0.0/LegendCraft.exe",
   "changelog": "Modlar guncellendi",
   "mods": [
     {"id": "LC1",  "file": "LC1-Gecko.jar",        "version": "1.0.0", "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd", "sha256": "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"},
     {"id": "LC2",  "file": "LC2-Healt.jar",         "version": "1.0.0", "sha1": "8b4826c3d120ab82e7c68fe3b7b937f15265656f", "sha256": "0cc0af4339e3f68b570638ab139d6976d5a2aaa7abf6deb0a26ef310d12a6130"},
-    {"id": "LC3",  "file": "LC3-Tacz.jar",          "version": "1.0.0", "sha1": "fd0024a6b2a588e2fc2a1ab97793e2aebbde1740", "sha256": "89f7332d4cd69539e490eb0f62915c88b42f1ebd9c95368ac616574abce211d6"},
+    {"id": "LC3",  "file": "LC3-Tacz.jar",          "version": "1.0.1", "sha1": "8afc475b165a15169507187c96db6b02a0c0268b", "sha256": "cc086704699c35c902e6a811d681977c9962951fef20a48ea7103084ecd5cea1"},
     {"id": "LC4",  "file": "LC4-Irtactical.jar",    "version": "1.0.0", "sha1": "c58d3a62eb913b481da6e3cb82c5486c032c26eb", "sha256": "60ab14a0e972aaa2dbad179f09fa3cae4c7820ca130c0c72f46329f66c369227"},
     {"id": "LC5",  "file": "LC5-Mobs.jar",          "version": "1.0.0", "sha1": "4e2e81e3eb9b5df57af89515d5268066bbc5423d", "sha256": "68d8084288d52430a63ae7130c244461b75772198b5799f6dea1c5a6560e6b27"},
     {"id": "LC6",  "file": "LC6-Boss.jar",          "version": "1.0.0", "sha1": "59156b210818ddaf01060d977797efbb41f0a7d1", "sha256": "2cd63fce6a377452314d530aa76c4f0be7ee5db40d058f2647840ab5a0975753"},
@@ -14,6 +14,7 @@
     {"id": "LC9",  "file": "LC9-embeddium.jar",      "version": "1.0.0", "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f", "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"},
     {"id": "LC10", "file": "LC10-oculus.jar",         "version": "1.0.0", "sha1": "984f774e71790deaec674c7587bd24e0711871b2", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"},
     {"id": "LC11", "file": "LC11-rubidium.jar",       "version": "1.0.0", "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8", "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"},
-    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.6", "sha1": "5641655a5d04150b806db0b22c2d3657274d7719", "sha256": "db717a0382e62120c55023dae71153552edb5ed8a60fa2409374d99f90afd694"}
+    {"id": "LC12", "file": "LC12-Melee.jar",         "version": "1.0.0", "sha1": "3385dbd62030faaef6d992a3c902eadf66929c34", "sha256": "7491f45d3005ee8ebc534c23ff4bff83a77d58dee407a095ab5bd2fc22428ca7"},
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.7", "sha1": "4cc6f1aa87059bc179e39605062c937c816bad47", "sha256": "a90e82f9e2c845e38a93ce1bef340f53531e559da627d3e91b9b0a98db0383b3"}
   ]
 }
