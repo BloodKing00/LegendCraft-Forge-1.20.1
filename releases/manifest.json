@@ -15,6 +15,6 @@
     {"id": "LC10", "file": "LC10-oculus.jar",         "version": "1.0.0", "sha1": "984f774e71790deaec674c7587bd24e0711871b2", "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"},
     {"id": "LC11", "file": "LC11-rubidium.jar",       "version": "1.0.0", "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8", "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"},
     {"id": "LC12", "file": "LC12-Melee.jar",         "version": "1.0.0", "sha1": "3385dbd62030faaef6d992a3c902eadf66929c34", "sha256": "7491f45d3005ee8ebc534c23ff4bff83a77d58dee407a095ab5bd2fc22428ca7"},
-    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.7", "sha1": "4cc6f1aa87059bc179e39605062c937c816bad47", "sha256": "a90e82f9e2c845e38a93ce1bef340f53531e559da627d3e91b9b0a98db0383b3"}
+    {"id": "LC-Launcher", "file": "LC-Launcher.jar", "version": "1.0.8", "sha1": "4cc6f1aa87059bc179e39605062c937c816bad47", "sha256": "a90e82f9e2c845e38a93ce1bef340f53531e559da627d3e91b9b0a98db0383b3"}
   ]
 }
